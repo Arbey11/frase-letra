@@ -8,8 +8,4 @@ cont = 0
 for i in frase:
     if i == letra:
         cont+=1
-        
-    else:
-        False
 print(f'la letra {letra} se repite {cont} veces')
-    
